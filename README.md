@@ -23,3 +23,7 @@ EDX original codes.
 ## License
 
 MIT license
+
+## Badges
+![badmath](https://img.shields.io/badge/HTML-65.3-blue)
+![badmath](https://img.shields.io/badge/CSS-34.7-orange)
