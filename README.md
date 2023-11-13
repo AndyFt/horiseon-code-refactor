@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-[Deployment](#deployment)
-[Usage](#usage)
-[Credits](#credits)
-[License](#license)
-[Badges](#badges)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Badges](#badges)
 
 ## Description
 
