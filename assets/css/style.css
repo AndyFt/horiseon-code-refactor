@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Header portion*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/*Team meeting image*/
 .background-image {
     height: 800px;
     width: 100%;
@@ -58,6 +59,7 @@ p {
     background-position: center;
 }
 
+/*Main portion*/
 main {
     width: 75%;
     display: inline-block;
@@ -92,6 +94,7 @@ article h2 {
     font-size: 36px;
 }
 
+/*Aside portion*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +122,7 @@ aside {
     max-width: 150px;
 }
 
+/*Footer portion*/
 footer {
     padding: 30px;
     clear: both;
