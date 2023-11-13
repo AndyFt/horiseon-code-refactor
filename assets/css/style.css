@@ -20,10 +20,12 @@ header h1 {
     font-size: 48px;
 }
 
+/*Different color on the name of the company*/
 #seo {
     color: #d9dcd6;
 }
 
+/*Navigation bar with the links*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -56,6 +58,12 @@ p {
     background-position: center;
 }
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -64,12 +72,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
