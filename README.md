@@ -25,5 +25,5 @@ EDX original codes.
 MIT license
 
 ## Badges
-![badmath](https://img.shields.io/badge/HTML-65.3-blue)
-![badmath](https://img.shields.io/badge/CSS-34.7-orange)
+![badmath](https://img.shields.io/badge/HTML-64.2-blue)
+![badmath](https://img.shields.io/badge/CSS-35.8-orange)
