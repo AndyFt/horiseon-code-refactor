@@ -1,5 +1,13 @@
 # horiseon-code-refactor
 
+## Table of Contents
+
+[Deployment](#deployment)
+[Usage](#usage)
+[Credits](#credits)
+[License](#license)
+[Badges](#badges)
+
 ## Description
 
 As a marketing agency this is a codebase that follows accessibility standards so that the site is optimized for search engines.
@@ -25,5 +33,5 @@ EDX original codes.
 MIT license
 
 ## Badges
-![badmath](https://img.shields.io/badge/HTML-64.2-blue)
-![badmath](https://img.shields.io/badge/CSS-35.8-orange)
+![badmath](https://img.shields.io/badge/HTML-63.3-blue)
+![badmath](https://img.shields.io/badge/CSS-36.7-orange)
